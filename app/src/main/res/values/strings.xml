@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">ClaseEJ23BCANSLogin</string>
+    <string name="facebook_app_id">988695245480125</string>
+    <string name="fb_login_protocol_scheme">fb1234988695245480125</string>
+    <string name="facebook_client_token">46f36aa1bc293bb46dcc7c372e25e8a9</string>
+</resources>

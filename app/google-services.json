@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "848929167182",
+    "project_id": "fir-movil-fa158",
+    "storage_bucket": "fir-movil-fa158.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:848929167182:android:196aa184f785a07826b01f",
+        "android_client_info": {
+          "package_name": "com.example.notificaciones"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "848929167182-18vtlpmtuuputpilp7j0qlisen8411aa.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAMQEUegSGNLqUGQPSef76Hmqy2CxMk8GM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "848929167182-18vtlpmtuuputpilp7j0qlisen8411aa.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
